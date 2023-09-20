@@ -4,3 +4,4 @@ Proyecto de PMDM de:
 	- Samuel Ferrer
 	- César García
 	- Modificando papá
+	- Samu hace cosas raras
