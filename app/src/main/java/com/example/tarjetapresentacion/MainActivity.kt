@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
 @Preview(showBackground = true)
 @Composable
 fun Tarjeta() {
-    val imgFondo = painterResource(R.drawable.ic_launcher_background)
+    val imgFondo = painterResource(R.drawable.pexels_roberto_nickson_2486168)
     val imgLogo = painterResource(R.drawable.grupo4)
     val imgMail = painterResource(R.drawable.email)
     val imgShare = painterResource(R.drawable.compartir)
